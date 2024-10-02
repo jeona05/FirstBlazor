@@ -1,6 +1,6 @@
 # FirstBlazor
 
-##1. CodeSpaces를 열어 주세요.
+## 1. CodeSpaces를 열어 주세요.
    ![image](https://github.com/user-attachments/assets/7c6afe65-1fdc-47e9-b987-236f99f82981)
 
   
