@@ -31,7 +31,9 @@ dotnet --version
 ## 3.새로운 Blazor 프로젝트 생성
 Blazor 프로젝트를 생성하려면 터미널에서 아래 명령어를 입력하세요. BlazorEx는 프로젝트 이름입니다. 다른 이름을 사용하고 싶다면 BlazorEx 대신 원하는 이름을 입력하면 됩니다.
 
-```dotnet new blazor -o BlazorEx```
+```bash
+dotnet new blazor -o BlazorEx
+```
 이 명령어는 BlazorEx라는 이름의 디렉토리를 생성하고, 그 안에 Blazor 프로젝트 파일들을 생성하는 명령어 입니다.
 <br>  
 
@@ -39,7 +41,9 @@ Blazor 프로젝트를 생성하려면 터미널에서 아래 명령어를 입�
 
 ## 4. 프로젝트 디렉토리로 이동
 생성된 Blazor 프로젝트 디렉토리로 이동합니다. 아래 명령어를 사용하세요.
-```cd BlazorEx```
+```bash
+cd BlazorEx
+```
 이제 Blazor 프로젝트를 실행할 준비가 완료되었습니다.
 <br>  
 
@@ -47,7 +51,9 @@ Blazor 프로젝트를 생성하려면 터미널에서 아래 명령어를 입�
 
 ## 5. Blazor 프로젝트 실행
 아래 명령어를 입력하여 Blazor 프로젝트를 실행합니다.
-```dotnet run```
+```bash
+dotnet run
+```
 명령어가 성공적으로 실행되면, 터미널에 로컬 서버가 시작된다는 메시지가 나타납니다. 일반적으로 http://localhost:5000 또는 http://localhost:5001에서 애플리케이션을 확인할 수 있습니다.
 
 브라우저에서 해당 URL로 이동하여 Blazor 애플리케이션을 미리보기 할 수 있습니다.
