@@ -17,7 +17,9 @@ Codespaces 환경이 셋팅될 때까지 잠시 기다립니다.
 
 먼저, 현재 설치된 .NET SDK의 버전을 확인합니다. 터미널(또는 명령 프롬프트)을 열고 아래 명령어를 입력하세요.
 
-```bash dotnet --version```  
+```bash
+dotnet --version
+```  
   
 ![image](https://github.com/user-attachments/assets/3b8f8100-4266-41a6-b3ed-b663daacbe2a)  
 
